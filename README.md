@@ -1,3 +1,5 @@
+<p align="center"><img src="img/logo-zornotza.png" alt="CIFP Zornotza LHII" width="460"></p>
+
 # Reto · Proyecto intermodular · DAM (2.º de DAM)
 
 **CIFP Zornotza LHII · curso 2026-27 · módulo 0492 Proyecto intermodular (Proyecto de desarrollo de aplicaciones multiplataforma) · 50 h · grado superior**
